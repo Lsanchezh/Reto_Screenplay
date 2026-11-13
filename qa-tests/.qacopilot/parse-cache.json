@@ -1,0 +1,42 @@
+{
+  "schemaVersion" : 1,
+  "analysisFingerprint" : "39420f2a74b388ef369f0dd8914f2aa3f5a8bc5bec5f32d5b5af8cb8093c192a",
+  "files" : {
+    "src/main/java/com/co/choucair/interactions/InteractionDemo.java" : {
+      "sha256" : "403a156ce5dead1b36409ddf68e257e2ad44783f7dd1fcbc0a2408d147c41616",
+      "endpoints" : [ ]
+    },
+    "src/main/java/com/co/choucair/models/UserLoombokData.java" : {
+      "sha256" : "f3a2fe6bfd7bf85793eebf44ec82f6c1fb7bf6b5e838a268ec7d4e47186877bf",
+      "endpoints" : [ ]
+    },
+    "src/main/java/com/co/choucair/questions/ValidateText.java" : {
+      "sha256" : "d1358baaa27478e06396f3760b59869db1c3f83252cb57c4f5e7b763fc4b1173",
+      "endpoints" : [ ]
+    },
+    "src/main/java/com/co/choucair/tasks/Login.java" : {
+      "sha256" : "b03d123ccf02cbb82feb11a85c681fd52f8d8552ee5c59cc5b8609b4efd23056",
+      "endpoints" : [ ]
+    },
+    "src/main/java/com/co/choucair/userinterfaces/SerenityLoginPage.java" : {
+      "sha256" : "753bfd26dce1a59e09028fad7ad16d7b04950491fdf8bc8f80ffa6a99d6e5ffe",
+      "endpoints" : [ ]
+    },
+    "src/main/java/com/co/choucair/utils/GlobalData.java" : {
+      "sha256" : "a1ccad94ee84812b3ea51d28ee33e24b3d8a92ca537dd112d9323de45f08501d",
+      "endpoints" : [ ]
+    },
+    "src/main/java/com/co/choucair/utils/KillBrowser.java" : {
+      "sha256" : "50be862f00af5309fafd7c852dfba9d7af9fc871c92816d7731b515c3e8410df",
+      "endpoints" : [ ]
+    },
+    "src/test/java/com/co/choucair/runners/SerenityLoginRunner.java" : {
+      "sha256" : "0e3df151c3d2b43630f3765a1244c5edb09839f13eab1aece0ab21ab6fc586ea",
+      "endpoints" : [ ]
+    },
+    "src/test/java/com/co/choucair/stepdefinitions/SerenityLoginStepDefinitions.java" : {
+      "sha256" : "3c8a40531dd68de8526110b90205cba8c787b64a968b1398075d1308021a0b90",
+      "endpoints" : [ ]
+    }
+  }
+}

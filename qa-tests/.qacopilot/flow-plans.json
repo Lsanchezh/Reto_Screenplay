@@ -1,0 +1,12 @@
+{
+  "schemaVersion" : 1,
+  "generatedAt" : "2026-11-13T19:10:42.137540300Z",
+  "project" : {
+    "name" : "screenplay-web-automation-template"
+  },
+  "flows" : [ ],
+  "summary" : {
+    "totalPlans" : 0,
+    "unresolvedPreconditions" : 0
+  }
+}
